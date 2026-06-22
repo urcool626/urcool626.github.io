@@ -1,0 +1,9 @@
+body {
+    background-color: rgb(32, 32, 32);
+    color: rgb(224, 224, 224);
+}
+
+a {
+    color: rgb(224, 224, 224);
+    font-weight: bold;
+}
