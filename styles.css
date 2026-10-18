@@ -7,3 +7,14 @@ a {
     color: rgb(224, 224, 224);
     font-weight: bold;
 }
+
+button {
+    height: 50px;
+    width: 150px;
+    background-color: #4242f9;
+    border-radius: 8px;
+    border-width: 0;
+    color: white;
+    font-weight: bold;
+    font-size: 17px;
+}
